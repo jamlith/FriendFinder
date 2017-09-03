@@ -1,15 +1,10 @@
-exports.app() {
-   var questions = [
-        {
-            1
-        }
-    ];
 
     var people = [
         {
-            name: "dirt",
-            photo: "src",
-            answer_list: [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
-        }
+            name: "Trixie Circuits",
+            photo: "http://gph.is/2wx8mHp",
+            scores: [ "2", "5", "4", "2", "1", "5", "4", "5", "2", "2" ]
+        },
+        
     ];
-}
+module.exports = people;
